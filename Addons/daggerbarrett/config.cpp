@@ -8,7 +8,8 @@ class CfgPatches {
 		requiredversion		= 1.3200001;
 		units[]				= {
 			"NIC_Sniper_M107",
-			"NIC_ej_m107_50Suppressor_ejacc_pointer_IRoptic_tws"
+			"NIC_ej_m107_50Suppressor_ejacc_pointer_IRoptic_tws",
+			"NIC_Sniper_M107_pack"
 		};
 		weapons[]			= {"ej_m107"};
 		magazines[]			= {
@@ -94,9 +95,13 @@ class CfgWeapons {
 			"this",
 			"securite"
 		};
-		class securite: Rifle {
+		class securite: Rifle_Base_F {	
 			displayName				= $STR_NIC_M107_SAFE;
-			
+			changeFiremodeSound[]		= {
+				"\DaggerBarrett\sound\Safety.wav",
+				0.5,
+				1
+			};
 			magazines[]				= {
 				"R3F_securite_mag"
 			};
@@ -632,45 +637,9 @@ class cfgVehicles {
 			"BarretSLAP_T_mag",
 			"BarretSLAP_T_mag",
 			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
 			"BarretSLAP_T_mag"
 		};
 		respawnMagazines[]		= {
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
-			"BarretSLAP_T_mag",
 			"BarretSLAP_T_mag",
 			"BarretSLAP_T_mag",
 			"BarretSLAP_T_mag",
