@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="NIC_Rearm_MK6">
+    <Package name="NIC_MK6">
+		<Key ID="STR_NIC_M107_MOD_OVERVIEW">
+            <Original>Barrett M107 v1.0b &lt;br /&gt;The well known Barrett M107 in 4 different camos. Along with a fitting silencer. A sniper infantry unit equipped with the M107 is also added. Designed to be used as an AI unit.</Original>
+            <German>Barrett M107 v1.0b &lt;br /&gt;Das bekannte Barrett M107 in 4 verschiedenen Farbvarianten. Zusammen mit einem dazu passenden Schalldämpfer. Außerdem eine Infantrie Einheit ausgerüstet mit der M107; bestimmt zur Benutzung als AI Einheit.</German>
+	   </Key>
+		<Key ID="STR_NIC_M107_DESC_SHRT">
+            <Original>M107 Long Range Rifle</Original>
+            <German>M107 Langreichweitengewehr</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SAFE">
+            <Original>Safe</Original>
+            <German>Sicher</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MZZL">
+            <Original>Muzzle Slot</Original>
+            <German>Mündungsfach</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_FMJ">
+            <Original>Barrett FMJ Magazine</Original>
+            <German>Barrett FMJ Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_FMJ">
+            <Original>M107 10 round magazine 12,7 x 99 mm Full Metal Jacket</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm Vollmantel</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_AP">
+            <Original>Barrett AP Magazine</Original>
+            <German>Barrett AP Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_AP">
+            <Original>M107 10 round magazine 12,7 x 99 mm Armor Penetrator</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm panzerbrechend</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_SLAP">
+            <Original>Barrett SLAP Magazine</Original>
+            <German>Barrett SLAP Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_SLAP">
+            <Original>M107 10 round magazine 12,7 x 99 mm Saboted Light Armor Penetrator</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm Treibspiegel panzerbrechend leicht</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_SLAP_T">
+            <Original>Barrett SLAP-T Magazine</Original>
+            <German>Barrett SLAP-T Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_SLAP_T">
+            <Original>M107 10 round magazine 12,7 x 99 mm Saboted Light Armor Penetrator - Tracer</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm Treibspiegel panzerbrechend leicht - Leuchtspur</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_HE">
+            <Original>Barrett HE Magazine</Original>
+            <German>Barrett HE Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_HE">
+            <Original>M107 10 round magazine 12,7 x 99 mm High Explosive</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm Hochexplosiv</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_HE_T">
+            <Original>Barrett HE-T Magazine</Original>
+            <German>Barrett HE-T Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_HE_T">
+            <Original>M107 10 round magazine 12,7 x 99 mm High Explosive - Tracer</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm Hochexplosiv - Leuchtspur</German>
+        </Key>
+		<Key ID="STR_NIC_M107_MAG_HP">
+            <Original>Barrett HP Magazine</Original>
+            <German>Barrett HP Magazin</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SHRT_HP">
+            <Original>M107 10 round magazine 12,7 x 99 mm Hollow Point</Original>
+            <German>M107 10 Schuss Magazin 12,7 x 99 mm Hohlspitz</German>
+        </Key>
+		<Key ID="STR_NIC_M107_SNIPER">
+            <Original>Sniper (semiarid) M107</Original>
+            <German>Heckenschütze (halbtrocken) M107</German>
+        </Key>
+	</Package>
+</Project>
