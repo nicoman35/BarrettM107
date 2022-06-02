@@ -448,6 +448,7 @@ class CfgAmmo {
 	class EJ_B_127x99_SLAP: EJ_B_127x99_Ball {
 		ACE_bulletMass					= 23.33;
 		ACE_muzzleVelocities[]			= {1200};
+		aiAmmoUsageFlags				= "64 + 256";
 		hit								= 55;
 		caliber							= 5.5;
 		typicalSpeed					= 1200;
